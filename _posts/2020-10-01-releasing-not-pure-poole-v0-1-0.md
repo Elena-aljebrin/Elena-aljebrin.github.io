@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Education background
+author: Elena Al Jebrin
 tags:
 - jekyll theme
 - jekyll
 date: 2020-10-01 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+Bachelor of Science in Mathematics
+TS in Business Administration
+Master in Data Science 
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+My own website . It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
 For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.

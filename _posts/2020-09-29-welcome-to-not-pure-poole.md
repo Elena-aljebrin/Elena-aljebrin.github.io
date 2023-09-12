@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Certificates and courses
 date: 2023-09-12 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800

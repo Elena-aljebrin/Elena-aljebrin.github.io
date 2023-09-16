@@ -10,7 +10,7 @@
 
 -----
 
-See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-pure-poole/).
+See My own web page with [the demo site](https://vszhub.github.io/not-pure-poole/).
 
 ![Screenshot](screenshot.png)
 

@@ -4,7 +4,7 @@ title: Certificates and courses
 date: 2023-09-12 23:18 +0800
  
 
-Certificates abd courses! 
+Certificates and courses! 
 {: .message }
 
 1-Data science in real life

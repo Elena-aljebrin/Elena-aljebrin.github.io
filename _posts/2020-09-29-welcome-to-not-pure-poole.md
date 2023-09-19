@@ -1,4 +1,7 @@
-Certificates and courses ---
+
+ayout: post
+title: Certificates and courses ---
+author: Elena Al Jebrin 
 
 title: Certificates and courses ---
 
